@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Form</string>
+    <string name="name_label">Name</string>
+    <string name="email_label">Email</string>
+    <string name="submit_button">Submit</string>
+    <string name="submission_success">Form submitted successfully!</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="enter_email">Enter your email</string>
+</resources>
