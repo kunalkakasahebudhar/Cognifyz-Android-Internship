@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLite Database Demo</string>
+    <string name="save_button">Save Preference</string>
+    <string name="load_button">Load Preference</string>
+    <string name="hint_key">Preference Key (e.g., Theme)</string>
+    <string name="hint_value">Preference Value (e.g., Dark)</string>
+    <string name="save_success">Preference saved!</string>
+    <string name="save_error">Error saving preference.</string>
+    <string name="not_found">Preference not found.</string>
+</resources>
